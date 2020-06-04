@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alcher Project</string>
+    <string name="line1">Line1</string>
+    <string name="line2">Line2</string>
+    <string name="insert">insert</string>
+    <string name="remove">remove</string>
+    <string name="heading">Heading</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="add">add</string>
+</resources>
